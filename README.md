@@ -32,6 +32,10 @@ The script calculates and displays the following performance metrics:
 - **R² Score**: Indicates the proportion of the variance in the dependent variable that is predictable from the independent variable(s).
 - **Mean Squared Error (MSE)**: Measures the average of the squares of the errors.
 
+![1](https://github.com/user-attachments/assets/a9c0d551-21d6-4413-80d4-25d9c4dd9f47)
+![2](https://github.com/user-attachments/assets/98f389f9-f067-4ee6-97b6-125f106548d4)
+![3](https://github.com/user-attachments/assets/96aa1fec-9796-4e0a-b295-0514a09462da)
+
 ## Running the Script
 1. Ensure you have the required dependencies installed:
    ```bash
